@@ -92,3 +92,7 @@ def getTime(secs):
 	
 	
 	return (fts)
+
+
+# a copy of this code is available 
+# on https://pastebin.com/ykuRXEWC
